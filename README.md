@@ -5,7 +5,7 @@ The app presents multiple-choice questions, tracks scores, and shows results wit
 
 ---
 
-## 🚀 Features
+## Features 🚀
 - Multiple-choice quiz questions
 - Option to shuffle questions & answers
 - Result visualization using **Pie Chart**
@@ -14,9 +14,14 @@ The app presents multiple-choice questions, tracks scores, and shows results wit
 
 ---
 
-## 🖼️ Screenshots
-(Add screenshots here, e.g., `screenshot.quiz.png`)
-(Add screenshots here, e.g., `screenshot.result.png`)
+## Screenshots 🖼️
+
+### Quiz Screen
+![Quiz Screen](screenshot.quiz.png)
+
+### Result Screen
+![Result Screen](screenshot.result.png)
+
 
 ---
 ## Example Questions ✨ 
